@@ -12,7 +12,7 @@
     "path": "pages/tema-1.html"
   }, 
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "tema-2",
     "title": "2. Derecho Humano a la alimentación como nuevo enfoque de la Política SAN",
     "path": "pages/tema-2.html" 
@@ -36,7 +36,7 @@
     "path": "pages/tema-5.html" 
   },
   {
-    "icon": "fa fa-play-circle",
+    "icon": "fa fa-file-text-o",
     "slug": "tema-6",
     "title": "6. Ruta integral de atención para la promoción y mantenimiento de la salud",
     "path": "pages/tema-6.html" 
